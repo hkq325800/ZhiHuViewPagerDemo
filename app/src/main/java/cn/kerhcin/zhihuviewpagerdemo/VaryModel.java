@@ -1,4 +1,4 @@
-package zj.health.fjzl.hnrm.ui;
+package cn.kerhcin.zhihuviewpagerdemo;
 
 import java.io.Serializable;
 
